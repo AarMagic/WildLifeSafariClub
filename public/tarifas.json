@@ -1,0 +1,46 @@
+{
+    "tarifas_generales": [
+        {
+            "edad": "0-2",
+            "precio": "Gratis"
+        },
+        {
+            "edad": "3 - 12",
+            "precio": "4€"
+        },
+        {
+            "edad": "+13",
+            "precio": "12€"
+        },
+        {
+            "edad": "+64",
+            "precio": "7€"
+        },
+        {
+            "edad": "Estudiantes",
+            "precio": "8€"
+        },
+        {
+            "edad": "Diversidad Funcional",
+            "precio": "6€"
+        }
+    ],
+    "tarifa_wildlife_vip": [
+        {
+            "tipo": "Familiar",
+            "precio": "30€"
+        },
+        {
+            "tipo": "Individual",
+            "precio": "20€"
+        },
+        {
+            "tipo": "Jóvenes",
+            "precio": "25€"
+        },
+        {
+            "tipo": "Grupo",
+            "precio": "30€"
+        }
+    ]
+}
